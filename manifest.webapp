@@ -1,0 +1,13 @@
+{
+  "version": "1",
+  "name": "Tic Tac Toe",
+  "description": "Tic Tac Toe",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Abhilash and Reetika"
+  },
+  "icons": {
+    "48": "/images/icon.ico"
+  },
+  "default_locale": "en"
+}
